@@ -1,0 +1,6 @@
+[submodule "test-submodules-p1"]
+	path = test-submodules-p1
+	url = git@github.com:pitchopp/test-submodules-p1.git
+[submodule "test-submodules-p2"]
+	path = test-submodules-p2
+	url = git@github.com:pitchopp/test-submodules-p2.git
